@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI: Intelligent Financial Fraud Detection & Investigation",
+  "description": "An enterprise-grade fraud intelligence and investigation platform combining behavioral risk scoring, anomaly detection, explainable AI, and Google Gemini investigation agents for banking and fintech operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
